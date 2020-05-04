@@ -11,7 +11,6 @@ package com.jalasoft.practice;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.SpringApplication;
 
-
 /**
  * Start the spring service and call to the HelloController cllas
  *
